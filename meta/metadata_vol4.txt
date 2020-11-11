@@ -1,0 +1,17 @@
+---
+title:
+- type: main
+  text: Crash Blossoms, or History Above the Fold
+- type: subtitle
+  text: Volume IV, 2020
+creator:
+- role: author
+  text: Joseph D Lyman
+- role: editor
+  text: R Programming Language
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher:  Pinpoint Management LLC
+rights: © 2020 Joseph D Lyman, CC BY-NC-ND
+...
