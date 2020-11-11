@@ -25,6 +25,8 @@ The "Trump Free" edition is _not_ a political statement, but rather a practicali
 
 ## Download and Enjoy
 
+I strongly recommend the .epub versions, which include the metadata. You will find some .txt versions that were not converted to .epub, if you're the very curious type.
+
 Feel free to download and enjoy anything you find here. The code is very basic, and is public domain. The novels are Creative Commons, BY-NC-ND. I chose this licensing because I'm not entirely sure about the copy rights status of newspaper headlines; BY-NC-ND ensures that I remain responsible for my mess, and shows that I own up to it.
 
 Another word on copyright: I consider this a work of parody and social commentary, and a work of digital art. Please know that I didn't see any sort of copyright notice that would apply to the headlines I gathered, and no one has complained of my use and collection of them over the years. If someone would like to complain, they could certainly locate the headline in question, inform me of the volume title and location in the text, and I would be more than happy to replace their headline with a redacted version.
