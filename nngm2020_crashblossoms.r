@@ -2,10 +2,10 @@
 # code is in the public domain
 #
 # Build a book with something like:
-#    r bookgen.r > crashblossoms.txt
+#    r crashblossoms.r > crashblossoms.txt
 #    pandoc -s -o epub/crashblossoms.epub meta/metadata.txt txt/crashblossoms.txt
 
-data <- read.csv('data/headline_2017.csv', strip.white=TRUE)
+data <- read.csv('data/headline.csv', strip.white=TRUE)
 
 # give our columns useful names
 colnames(data) <- c("id","headline","url","provider","datetime","lm")
