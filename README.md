@@ -6,7 +6,7 @@ Since I view writing as a pursuit, and programming as a hobby--and as NaNoWriMo 
 
 ## About the Project
 
-I have a marginally interesting dataset which includes U.S. news headlines from top media outlets from the years 2017-2020. My problem has been, I have had no real use for the dataset. That is, until someone on [circumlunar.space](https://republic.circumlunar.space/) mentioned the 2020 NaNoGenMo.
+I have a marginally interesting dataset which includes U.S. news headlines from top media outlets from the years 2017-2020. My problem has been, I have had no real use for the dataset. That is, until someone on [circumlunar.space](https://circumlunar.space/) mentioned the 2020 NaNoGenMo.
 
 The project is titled, _"Crash Blossoms, or History Above the Fold"_. It takes various segments of four years worth of news headlines, and programmatically turns them into novels. The title references are something you can DuckDuckGo, but they indicate that the resultant novel from this project is a sort of history made of bombastic headlines.
 
